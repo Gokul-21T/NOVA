@@ -64,6 +64,10 @@ npm run start
 
 ## Deployment
 
+Live site: [nova-neon-eta.vercel.app](https://nova-neon-eta.vercel.app/)
+
+![NOVA homepage preview](docs/nova-homepage.png)
+
 Push the project to a GitHub repository and import it in Vercel, or use the Vercel CLI:
 
 ```bash
