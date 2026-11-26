@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 920" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="102" y1="10" x2="1063" y2="930" gradientUnits="userSpaceOnUse"><stop stop-color="#D8AE83"/><stop offset=".48" stop-color="#B86F4F"/><stop offset="1" stop-color="#6D403A"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(160 297 -318 171 680 310)" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF0CE"/><stop offset=".48" stop-color="#E4B883"/><stop offset="1" stop-color="#AA684C"/></radialGradient>
+    <linearGradient id="bottle" x1="522" y1="300" x2="745" y2="713" gradientUnits="userSpaceOnUse"><stop stop-color="#F3E4C4"/><stop offset=".5" stop-color="#C9A983"/><stop offset="1" stop-color="#725B4E"/></linearGradient>
+    <filter id="shadow" x="337" y="220" width="650" height="655" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="42"/></filter>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h1200v920H0z"/><circle cx="694" cy="408" r="278" fill="url(#glow)" opacity=".78"/>
+  <path d="M0 646c169-88 284-70 448 27 180 106 311 132 752 17v230H0V646Z" fill="#322A25" opacity=".47"/>
+  <ellipse cx="656" cy="716" fill="#211A17" opacity=".62" rx="230" ry="53" filter="url(#shadow)"/>
+  <path d="M477 701c18-91 35-155 52-215 18-65 32-83 77-91l2-78h104l4 78c43 8 58 27 76 91 17 60 34 124 51 215 5 26-14 43-41 43H519c-27 0-47-17-42-43Z" fill="url(#bottle)" stroke="#F0D7AF" stroke-opacity=".68" stroke-width="3"/>
+  <path d="M584 317h151v-59c0-15-12-27-27-27h-97c-15 0-27 12-27 27v59Z" fill="#3E332C"/><path d="M611 231v-36h97v36" stroke="#D8C5A7" stroke-width="4"/>
+  <path d="M513 495c75 15 193 15 301 0" stroke="#FFF2D7" stroke-opacity=".6" stroke-width="2"/><text x="606" y="570" fill="#40372F" font-family="Arial,sans-serif" font-size="27" letter-spacing="8">AURA</text><text x="593" y="602" fill="#5E5145" font-family="Arial,sans-serif" font-size="10" letter-spacing="4">OBJECTS FOR THE SENSES</text>
+  <path d="M120 0v920M1080 0v920" stroke="#F4E4CF" stroke-opacity=".15"/><text x="67" y="79" fill="#F6E8D6" font-family="Arial,sans-serif" font-size="12" letter-spacing="5">NOVA® / CONCEPT 01</text>
+</svg>
